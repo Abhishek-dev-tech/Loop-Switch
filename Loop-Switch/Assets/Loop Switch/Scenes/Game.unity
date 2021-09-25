@@ -973,7 +973,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: TAP THE LOOP
+  m_Text: LOOP SWITCH
 --- !u!222 &343833230
 CanvasRenderer:
   m_ObjectHideFlags: 0
